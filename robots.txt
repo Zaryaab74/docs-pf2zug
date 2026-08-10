@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-2wv4qp.trans88.space/sitemap.xml
